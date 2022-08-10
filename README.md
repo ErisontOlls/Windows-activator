@@ -1,4 +1,4 @@
-<h1 align="center">Windows-activator Erison Cleyton</h1>
+<h1 align="center"></h1>
 <h3 align="center">It's a very simple app</h3>
 
 - 🌱 I’m currently learning **C++, Ruby, C Sharp**
